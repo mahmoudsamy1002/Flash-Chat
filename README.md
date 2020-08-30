@@ -22,5 +22,12 @@ Flash Chat is an internet based messaging app similar to WhatsApp. I'm using Fir
 6. App Lifecycle and how to use viewWillAppear or viewWillDisappear.
 
 7. create direct Segues for navigation.
+
+# Pods:
+1. pod 'CLTypingLabel', '~> 0.4.0'
+2. pod 'Firebase
+
+
+
 # Note:
 This is a companion project to The App Brewery's Complete App Development Bootcamp.
